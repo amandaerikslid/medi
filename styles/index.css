@@ -1,14 +1,46 @@
 .logo {
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 48px;
-/* or 160% */
-letter-spacing: -0.02em;
-color: #0A1B32;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 48px;
+    /* or 160% */
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37px;
+    margin-left: 80px;
 }
 
 .dot {
     color: #A3DC00;
+}
+
+.title {
+    max-width: 500px;
+    width: 100%;
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 280, 71px;
+    margin-left: 200px;
+}
+
+.main-text {
+    max-width: 582.71px;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+    margin-top: 10px;
+    margin-left: 200px;
 }
